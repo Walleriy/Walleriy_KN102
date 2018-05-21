@@ -1,0 +1,18 @@
+#i
+{
+in 
+};
+int main()
+{
+
+	{
+y
+}
+	return 0;
+}
+int seredniy(int a, int b, int c, int d)
+{
+	int seredniy_bal;
+	seredniy_bal = ((a + b + c + d) / 4);
+	return seredniy_bal;
+}
